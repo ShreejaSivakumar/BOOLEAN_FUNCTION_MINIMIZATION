@@ -65,7 +65,7 @@ RegisterNumber: 25017561
 
 **Timing Diagram**
 
-[boolean output.pdf](https://github.com/user-attachments/files/23609265/boolean.output.pdf)
+![Screenshot_18-11-2025_21294_](https://github.com/user-attachments/assets/c647bf2d-96aa-411c-8cfb-3fa3915b9401)
 
 
 **Result:**
