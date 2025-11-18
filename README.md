@@ -70,5 +70,5 @@ RegisterNumber: 25017561
 
 **Result:**
 
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
+Thus the given logic functions are implemented using Verilog HDL and their operations are verified using Verilog programming and logic gates.
 
