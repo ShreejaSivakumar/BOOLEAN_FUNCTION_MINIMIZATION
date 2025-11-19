@@ -53,6 +53,7 @@ endmodule
 
 Developed by: SHREEJA R S 
 RegisterNumber: 25017561
+/*
 
 
 **RTL realization**
@@ -70,5 +71,7 @@ RegisterNumber: 25017561
 
 **Result:**
 
-Thus the given logic functions are implemented using Verilog HDL and their operations are verified using Verilog programming and logic gates.
+ Thus, the given logic functions are implemented in quartus and their operations are verified using Verilog programming.
 
+
+ ..
